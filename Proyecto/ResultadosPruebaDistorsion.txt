@@ -1,0 +1,28 @@
+Letras Reconocidas Totalmente
+A-Tipo2
+C-Tipo1
+D-Tipo1
+D-Tipo2
+E-Tipo2
+K-Tipo1
+K-Tipo3
+
+Letras Reconocidas Parcialmente
+K-Tipo2
+
+Letras No Reconocidas 
+
+A-Tipo1
+A-Tipo3
+B-Tipo1
+B-Tipo2
+B-Tipo3
+C-Tipo2
+C-Tipo3
+D-Tipo3
+E-Tipo1
+E-Tipo3
+J-Tipo1
+J-Tipo2
+J-Tipo3
+
